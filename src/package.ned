@@ -1,0 +1,3 @@
+package firstpoject;
+
+@license(LGPL);
